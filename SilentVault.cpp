@@ -1,3 +1,10 @@
+/*
+ * Project: SilentVault
+ * Coded by: Muhammad Husnain Zargar
+ * Email: info@hackwithhusnain.com
+ * Purpose: Console-based C++ password manager using XChaCha20-Poly1305 and Argon2id
+ */
+
 #include <iostream>
 #include <fstream>
 #include <sstream>
